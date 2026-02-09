@@ -1,0 +1,17 @@
+#include <stdio.h>
+
+int main() {
+    int age;
+    float height;
+
+    printf("Enter your age: ");
+    scanf("%d", &age);
+
+    printf("Enter your height in meters: ");
+    scanf("%f", &height);
+
+    printf("\nAge: %d years\n", age);
+    printf("Height: %f meters\n", height);
+
+    return 0;
+}
