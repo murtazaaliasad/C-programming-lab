@@ -1,0 +1,10 @@
+#include <stdio.h>
+
+int main() {
+    printf("Name:\t\"Murtaza Ali\"\n");
+    printf("Course:\tProgramming Fundamentals\n");
+    printf("Path:\tC:\\Users\\Student\\Documents\n");
+    printf("Note:\tThis line uses tabs,\n\tnew lines, quotes \" \nand backslashes \\\n");
+
+    return 0;
+}
